@@ -1,0 +1,59 @@
+baseurl             = "https://pblog.kjelsrud.dev/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "nb"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
+author              = "Sindre Kjelsrud"
+title               = "Sindre Kjelsrud"
+pygmentsuseclasses  = true
+#pluralizelisttitles = false
+highlightjs = true
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Om bedriften"
+weight                 = -120
+identifier             = "ombed"
+url                    = "/ombed/"
+
+[[menu.main]]
+name                   = "Blogg"
+weight                 = -110
+identifier             = "blogg"
+url                    = "/blogg/"
+
+[[menu.main]]
+name                   = "Min CV"
+weight                 = -110
+identifier             = "cv"
+url                    = "/cv/"
+
+[[menu.main]]
+name                   = "Tags"
+weight                 = -100
+identifier             = "tags"
+url                    = "/tags/"
+
+[params]
+latestpostscount       = 5                             # how many posts to display on the home page
+i18n_flags             = false                         # whether to display small country flags for available translations
+author                 = "Sindre Kjelsrud"
+cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Blogg for praksisfaget DAT156."
+email                  = "sindrekjelsrud@proton.me"
+lang                   = "en"
+selfintro              = "Bloggside for praksisfaget DAT156."
+github                 = "//github.com/sindrekjelsrud"
+linkedin               = "//linkedin.com/in/sindre-kjelsrud-345583218"
+avatar                 = "img/profile.png"
+faviconfile            = "img/favicon.png"
+
+[taxonomies]
+  tag = "tags"
