@@ -1,110 +1,102 @@
 ---
-title: "Resume📜"
+title: "CV📜"
 showToc: true
 draft: false
 ---
 
-## Experience
+## Erfaring
 
-**Operator, Manpower, Coop Main Warehouse, Loading-Department**  
+**Driftsoperatør, Manpower, Coop Hovedlager, Utlastavdelingen**  
 _2022_
 
-> The main tasks consist of helping the truckdrivers with loading, localisation/retrieving of products and pallets using a forklift, and acquiring necessary papers before departure, as well as the use of Witronsoftware and general maintenance of the area.
+> Hovedoppgavene besto av å hjelpe lastebilsjåførene med lasting, lokalisering/henting av produkter og paller ved hjelp av truck, og innhenting av nødvendige papirer før avgang, samt. bruk av Witronsoftware og generelt vedlikehold av området.
 
-**Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool**  
+**Livredder, Lillestrøm kommune, Nebbursvollen friluftsbad**  
 _2019 - 2021_
 
-> Responsible for safety, well-being and maintenance at Nebbursvollen Open-air swimming pool during the summer seasons 2019, 2020 and 2021.
+> Ansvarlig for sikkerhet, trivsel og vedlikehold ved Nebbursvollen Friluftsbad i sommersesongene 2019, 2020 og 2021.
 
-**Catering employee, Select Service Partner, Oslo Airport**  
+**Cateringmedarbeider, Select Service Partner, Oslo Lufthavn**  
 _2018_
 
-> The main tasks were to produce and pack food for various airlines, and for our internal customers at the airport, as well as to keep trackof the premises.
+> Hovedoppgavene var å produsere og pakke mat til ulike flyselskaper, og for våre interne kunder på flyplassen, samt. holde styr på lokalene.
 
 ---
 
-## Education
+## Utdanning
 
-2021 - present
-: **Bachelor, Information Technology**; Western Norway University of Applied Sciences, in Bergen
+2021 - nå
+: **Bachelor, Informasjonsteknologi**; Høgskolen på Vestlandet, Campus Bergen
 
 2020 - 2021
-: **Primary school teacher class 5-10**; NLA University College, in Bergen
+: **Grunnskolelærer 5.-10. trinn**; NLA Høgskolen, Campus Bergen
 
 2019 - 2020
-: **One-year programme, IT & Information systems**; University of South-Eastern Norway, Campus Bø
+: **Årsstudium, IT og informasjonssystemer**; Universitetet i Sørøst-Norge, Campus Bø
 
 2018 - 2019
-: **Multisport Bali**; Rodde Folk High-School, in Trondheim
+: **Multisport Bali**; Rødde Folkehøyskole, Trondheim
 
-## Extracurricular activity
+## Verv
 
-**Member, [friByte](https://fribyte.no) student organization**  
-_Sep. 2022 - present_
+**Medlem, [friByte](https://fribyte.no) student organisasjon**  
+_Sep. 2022 - nå_
 
-> Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.  
-> As a member I've learned how to work in teams, operate in linux servers from the terminal, set up docker images/containers, use Git and much more. I've also created Wordpress website for one of our customers.
+> Medlem av studentorganisasjonen friByte i Bergen. friByte er en uavhengig studentorganisasjon som leverer sikre og stabile datatjenester til andre studentorganisasjoner i Bergen.  
+> Som medlem har jeg lært å jobbe i team, operere i linux-servere fra terminalen, sette opp docker-images/containere, bruke Git og mye mer. Jeg har også laget en Wordpress-nettside for en av våre kunder.
 
-**Leader, [friByte](https://fribyte.no) student organization**  
-_1. semester of 2023_
+**Leder, [friByte](https://fribyte.no) student organisasjon**  
+_1. semester av 2023_
 
-> As a leader my responsibilities were to mostly do administrative tasks, convene meetings, acquire new customers & members, and delegate assignments to the other members.  
-> During my leadership we got two more members, two new clients and we hosted an successful Capture The Flag event.
+> Som leder var mitt ansvar for det meste å gjøre administrative oppgaver, innkalle til møter, skaffe nye kunder og medlemmer, og delegere oppdrag til de andre medlemmene.  
+> I løpet av mitt lederskap fikk vi ytterligere to medlemmer, to nye kunder og vi var vertskap for et vellykket Capture The Flag-arrangement.
 
-**PR-manager, [friByte](https://fribyte.no) student organization**  
-_2. semester of 2023_
+**PR-manager, [friByte](https://fribyte.no) student organisasjon**  
+_2. semester av 2023_
 
-> As a PR-manager my responsibilities were to build our organization reputation, to ensure effective media coverage by creating content for our social media accounts, and forgeing relationships with other student orgs. by getting help to spread event-happenings and so on.
+> Som PR-ansvarlig er mitt ansvar å bygge organisasjonens rykte, å sikre effektiv mediedekning ved å lage innhold for våre sosiale mediekontoer og knytte relasjoner til andre studentorganisasjoner, ved å få hjelp til å spre hendelser og så videre.
 
 ---
 
-## Projects
+## Prosjekter
 
 [sidBot | Python / JavaScript](https://github.com/SindreKjelsrud/sidBot)
-: A Discord bot that responds to messages & commands with pictures and special answers depending on the message/command.
-
-<br><br>
+: En Discord-bot som svarer på meldinger og kommandoer med bilder og spesialsvar avhengig av meldingen/kommandoen.
 
 [My Personal Website | Hugo Framework](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)
-: A personal website that gets updated during my education.
-
-<br><br>
+: En personlig nettside som blir oppdatert i løpet av min utdanning.
 
 [Wordle | Java](https://github.com/SindreKjelsrud/Wordle)
-: A clone of the game Wordle. (Has some bugs)
+: En klone av spillet Wordle. (Har noen feil)
 
 ---
 
-## Extra Section
+## Ekstra seksjon
 
 ### IT-skills
 
-**Programming Languages:**  
-Java, HTML/CSS, postgreSQL, and basic knowledge of Python, JavaScript & C#.
+**Programmeringsspråk:**  
+Java, HTML/CSS, postgreSQL, og grunnleggende kunnskap av Python, JavaScript & C#.
 
-**Libraries & Frameworks:**  
+**Bibliotek & Rammeverk:**  
 Hugo
 
-**Technologies:**  
-Git, Office 365, and basic knowledge of Docker & Wordpress.
-
-<br><br>
+**Teknologier:**  
+Git, Office 365, og grunnleggende kunnskap av Docker & Wordpress.
 
 ### Certificates & Courses
 
-Driver Licence (class B)  
-First Aid course  
-Forklift licence (class T1)
+Førerkort (klasse B)  
+Førstehjelpskurs  
+Truckførerbevis (klasse T1)
 
-<br><br>
+### Språk
 
-### Language
-
-Norwegian ⋅ Native  
-English ⋅ Fluent
+Norsk ⋅ Morsmål  
+Engelsk ⋅ Flytende
 
 ---
 
-## References
+## Referanser
 
-Provided on request.
+Fås ved forespørsel.
