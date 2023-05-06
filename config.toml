@@ -13,7 +13,7 @@ pygmentsuseclasses  = true
 highlightjs = true
 
 [permalinks]
-blog  = "blog/:slug/"
+blogg  = "blogg/:slug/"
 
 [[menu.main]]
 name                   = "Om bedriften"
@@ -28,14 +28,14 @@ identifier             = "blogg"
 url                    = "/blogg/"
 
 [[menu.main]]
-name                   = "Min CV"
-weight                 = -110
+name                   = "CV"
+weight                 = -100
 identifier             = "cv"
 url                    = "/cv/"
 
 [[menu.main]]
 name                   = "Tags"
-weight                 = -100
+weight                 = -90
 identifier             = "tags"
 url                    = "/tags/"
 
