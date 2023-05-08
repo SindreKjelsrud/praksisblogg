@@ -67,7 +67,7 @@ _2. semester av 2023_
 : En personlig nettside som blir oppdatert i løpet av min utdanning.
 
 [Wordle | Java](https://github.com/SindreKjelsrud/Wordle)
-: En klone av spillet Wordle. (Har noen feil)
+: En klone av spillet Wordle.
 
 ---
 
@@ -79,7 +79,7 @@ _2. semester av 2023_
 Java, HTML/CSS, postgreSQL, og grunnleggende kunnskap av Python, JavaScript & C#.
 
 **Bibliotek & Rammeverk:**  
-Hugo
+Spring, Hugo, Zola
 
 **Teknologier:**  
 Git, Office 365, og grunnleggende kunnskap av Docker & Wordpress.
