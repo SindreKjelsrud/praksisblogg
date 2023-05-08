@@ -308,14 +308,6 @@ section.icons .content a .icon {
 section.icons .content a .flag {
   border-radius: 50%;
 }
-
-section.footnotes {
- border-top : 0.5px solid gray;
- margin-top: 100px;
- margin-left: auto;
-}
-
-
 @media (min-width: 600px) {
   section.icons {
     background-color: transparent;
@@ -397,12 +389,6 @@ section.main .content .front-matter .meta {
   display: -ms-flex;
   display: flex;
   margin-bottom: 32px;
-}
-section.main .content .front-matter .tags a {
-  color: #666;
-}
-section.main .content .front-matter .tags a:hover {
-  text-decoration: underline;
 }
 section.main .content .front-matter .date,
 section.main .content .front-matter .word-count,
@@ -523,7 +509,7 @@ section.header {
 }
 section.icons {
   padding-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 32px;
 }
 section.main {
   padding-top: 32px;
@@ -538,12 +524,12 @@ section.main {
     padding-bottom: 60px;
   }
   section.icons {
-    padding-top: 0;
+    padding-top: 60px;
     padding-bottom: 60px;
   }
   section.main {
     padding-top: 0;
-    padding-bottom: 32px;
+    padding-bottom: 0;
   }
   section.main .container .content .post-item {
     display: flex;
@@ -554,7 +540,7 @@ section.main {
   }
   section.main.post {
     padding-top: 60px;
-    padding-bottom: 0;
+    padding-bottom: 60px;
   }
 }
 a {
@@ -617,12 +603,14 @@ section.main .content .markdown h6 {
   letter-spacing: none;
 }
 section.main .content .markdown code,
-section.main .content .markdown pre {
+section.main .content .markdown pre,
+section.main .content p .literal {
   font-family: 'Ubuntu Mono', 'Menlo', monospace;
   font-size: 1rem;
   background-color: #f7f7f7;
 }
-section.main .content .markdown code {
+section.main .content .markdown code,
+section.main .content p .literal {
   /* enclosed by single backtick (`) */
   padding: .15em .5em;
   border-radius: 2px;
@@ -633,7 +621,7 @@ section.main .content .markdown pre {
   margin-top: 1rem;
   margin-bottom: 2rem;
   padding: 1rem;
-  line-height: 1.2em;
+  line-height: 1.5em;
   white-space: pre;
   word-break: break-all;
   word-wrap: break-word;
@@ -643,7 +631,6 @@ section.main .content .markdown pre code {
   /* enclosed by 3 backticks (```) */
   padding: 0;
   font-size: 1rem;
-  line-height: 1.2em;
 }
 section.main .content .markdown a code {
   color: #428bca !important;
@@ -657,6 +644,7 @@ section.main .content .markdown p {
   margin-top: 0;
   margin-bottom: 1em;
 }
+section.main .content .markdown ul,
 section.main .content .markdown ol,
 section.main .content .markdown dl {
   margin-top: 1rem;
@@ -669,7 +657,7 @@ section.main .content .markdown dd {
   margin-bottom: .5rem;
 }
 section.main .content .markdown ul {
-  margin-bottom: 0rem;
+  margin-bottom: 1.25rem;
 }
 section.main .content .markdown ul li {
   list-style-type: disc;
@@ -723,17 +711,6 @@ section.main .content .markdown img {
   margin: 1rem 0;
   max-width: 100%;
 }
-
-.video-shortcode {
-  max-width: 100%;
-  height: auto;
-}
-
-section.main .content .markdown figure img :not(.full){
-  max-width: 30%;
-  float: right;
-}
-
 section.main .content .markdown table {
   margin-bottom: 1rem;
   width: 100%;
@@ -749,4 +726,3 @@ section.main .content .markdown tbody tr:nth-child(odd) td,
 section.main .content .markdown tbody tr:nth-child(odd) th {
   background-color: #f7f7f7;
 }
-

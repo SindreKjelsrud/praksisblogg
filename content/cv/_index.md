@@ -1,6 +1,6 @@
 ---
-title: "CV📜"
-showToc: true
+title: "Cv"
+date: 2023-05-08T12:53:27+02:00
 draft: false
 ---
 
@@ -36,6 +36,8 @@ _2018_
 
 2018 - 2019
 : **Multisport Bali**; Rødde Folkehøyskole, Trondheim
+
+---
 
 ## Verv
 

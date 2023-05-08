@@ -1,25 +1,14 @@
-baseurl             = "https://pblog.kjelsrud.dev/"
-builddrafts         = false
-canonifyurls        = true
-contentdir          = "content"
-languageCode        = "nb"
-layoutdir           = "layouts"
-publishdir          = "public"
-theme               = "cocoa"
-author              = "Sindre Kjelsrud"
+baseURL             = 'https://pblog.kjelsrud.dev/'
+languageCode        = 'nb'
 title               = "Sindre Kjelsrud"
-pygmentsuseclasses  = true
-#pluralizelisttitles = false
-highlightjs = true
-
-[permalinks]
-blogg  = "blogg/:slug/"
+theme               = 'cocoa'
+author              = "Sindre Kjelsrud"
 
 [[menu.main]]
-name                   = "Om bedriften"
+name                   = "Info"
 weight                 = -120
-identifier             = "ombed"
-url                    = "/ombed/"
+identifier             = "info"
+url                    = "/info/"
 
 [[menu.main]]
 name                   = "Blogg"
@@ -29,13 +18,13 @@ url                    = "/blogg/"
 
 [[menu.main]]
 name                   = "CV"
-weight                 = -100
+weight                 = -110
 identifier             = "cv"
 url                    = "/cv/"
 
 [[menu.main]]
 name                   = "Tags"
-weight                 = -90
+weight                 = -100
 identifier             = "tags"
 url                    = "/tags/"
 
@@ -47,7 +36,7 @@ cachebuster            = true                          # add the current unix ti
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Blogg for praksisfaget DAT156."
-email                  = "sindrekjelsrud@proton.me"
+email                  = "kjelsrudsindre@gmail.com"
 lang                   = "en"
 selfintro              = "Bloggside for praksisfaget DAT156."
 github                 = "//github.com/sindrekjelsrud"

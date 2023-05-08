@@ -1,9 +1,9 @@
 ---
 title: "Innleggsmal"
-date: 2023-05-04T22:28:57+02:00
+date: 2023-05-08T12:57:05+02:00
 description: "Mal for blogginnleggene"
 author: "Sindre Kjelsrud"
-tags: [""]
+tags: ["test"]
 draft: false
 ---
 

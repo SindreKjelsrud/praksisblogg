@@ -11,4 +11,4 @@
 ### Drevet av:
 
 1. Hugo - https://gohugo.io/
-2. Cocoa - https://github.com/adityatelange/hugo-PaperMod
+2. Cocoa - https://github.com/mtn/cocoa-eh-hugo-theme
