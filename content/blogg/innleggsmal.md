@@ -3,7 +3,7 @@ title: "Innleggsmal"
 date: 2023-05-08T12:57:05+02:00
 description: "Mal for blogginnleggene"
 author: "Sindre Kjelsrud"
-tags: ["test"]
+tags: ["backlog"]
 draft: false
 ---
 
@@ -18,3 +18,12 @@ draft: false
   - den skal være så detaljert at kontaktpersonen din ved HVL får et innblikk i hva du arbeider med.
   - et minimumskrav er at den blir oppdatert to ganger pr. uke.
     - det er anbefalt at man oppdaterer bloggen hver dag du har vært i bedriften.
+
+### Eksempel på blogginnlegg
+Dag 12  
+Fredag 8.10  
+Kl: 09-17  
+Antall timer: 8  
+Totalt: 93 timer  
+
+Bloggtekst....bla-bla......
