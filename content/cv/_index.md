@@ -51,12 +51,12 @@ _Sep. 2022 - nå_
 _1. semester av 2023_
 
 > Som leder var mitt ansvar for det meste å gjøre administrative oppgaver, innkalle til møter, skaffe nye kunder og medlemmer, og delegere oppdrag til de andre medlemmene.  
-> I løpet av mitt lederskap fikk vi ytterligere to medlemmer, to nye kunder og vi var vertskap for et vellykket Capture The Flag-arrangement.
+> I løpet av mitt lederskap fikk vi ytterligere to medlemmer, tre nye kunder og vi var vertskap for et vellykket Capture The Flag-arrangement.
 
 **PR-manager, [friByte](https://fribyte.no) student organisasjon**  
 _2. semester av 2023_
 
-> Som PR-ansvarlig er mitt ansvar å bygge organisasjonens rykte, å sikre effektiv mediedekning ved å lage innhold for våre sosiale mediekontoer og knytte relasjoner til andre studentorganisasjoner, ved å få hjelp til å spre hendelser og så videre.
+> Som PR-ansvarlig er mitt ansvar å bygge organisasjonens rykte, å sikre effektiv mediedekning ved å lage innhold for våre sosiale mediekontoer og knytte relasjoner til andre studentorganisasjoner, ved å få hjelp til å spre arrangementer og så videre.
 
 ---
 
@@ -81,7 +81,7 @@ _2. semester av 2023_
 Java, HTML/CSS, postgreSQL, og grunnleggende kunnskap av Python, JavaScript & C#.
 
 **Bibliotek & Rammeverk:**  
-Spring, Hugo, Zola
+Spring, Hugo, Zola og grunnleggende kunnskap med .NET.
 
 **Teknologier:**  
 Git, Office 365, og grunnleggende kunnskap av Docker & Wordpress.
