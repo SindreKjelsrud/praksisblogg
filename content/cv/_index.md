@@ -45,18 +45,18 @@ _2018_
 _Sep. 2022 - nå_
 
 > Medlem av studentorganisasjonen friByte i Bergen. friByte er en uavhengig studentorganisasjon som leverer sikre og stabile datatjenester til andre studentorganisasjoner i Bergen.  
-> Som medlem har jeg lært å jobbe i team, operere i linux-servere fra terminalen, sette opp docker-images/containere, bruke Git og mye mer. Jeg har også laget en Wordpress-nettside for en av våre kunder.
+> Som medlem har jeg lært å jobbe i team, operere i linux-servere fra terminalen, sette opp docker-images/containere, bruke Git og mye mer. Jeg har også laget en Wordpress-nettside for en av våre klienter.
 
 **Leder, [friByte](https://fribyte.no) student organisasjon**  
 _1. semester av 2023_
 
-> Som leder var mitt ansvar for det meste å gjøre administrative oppgaver, innkalle til møter, skaffe nye kunder og medlemmer, og delegere oppdrag til de andre medlemmene.  
+> Som leder var mitt ansvar for det meste å gjøre administrative oppgaver, innkalle til møter, skaffe nye kunder og medlemmer, og delegere oppgaver til de andre medlemmene.  
 > I løpet av mitt lederskap fikk vi ytterligere to medlemmer, tre nye kunder og vi var vertskap for et vellykket Capture The Flag-arrangement.
 
 **PR-manager, [friByte](https://fribyte.no) student organisasjon**  
 _2. semester av 2023_
 
-> Som PR-ansvarlig er mitt ansvar å bygge organisasjonens rykte, å sikre effektiv mediedekning ved å lage innhold for våre sosiale mediekontoer og knytte relasjoner til andre studentorganisasjoner, ved å få hjelp til å spre arrangementer og så videre.
+> Som PR-ansvarlig er mitt ansvar å bygge organisasjonens rykte, å sikre effektiv mediedekning ved å lage innhold for våre sosiale mediekontoer og knytte relasjoner til andre studentorganisasjoner, ved å få hjelp til å spre arrangementer osv.
 
 ---
 
